@@ -1,0 +1,158 @@
+﻿@model MRP.Models.UserOrder
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<div class="container">
+ 
+    <div class="form-group row">
+        <div class="col-6 pl-5 pt-2" style="text-align-last:right">
+            <a asp-controller="User" asp-action="Login" class="btn btn-outline-dark">
+                Sign Out
+            </a>
+        </div>
+
+        <div class="col-6 pl-5 pt-2" style="text-align-last:right">
+            <a asp-controller="User" asp-route-Id="@Model.user.UserId" asp-action="Update" class="btn btn-outline-dark">
+                Update Profile
+            </a>
+        </div>
+
+
+
+        <div class="col-6 pl-5 pt-2" style="text-align-last:right">
+            @if (Model.user.Admin)
+            {
+
+                <a asp-controller="Inventory" asp-action="Admin" class="btn btn-dark">
+                    Manage Inventory
+                </a>
+
+                <a asp-controller="BOM" asp-action="Admin" class="btn btn-dark">
+                    Manage Materials
+                </a>
+
+                <a asp-controller="Product" asp-action="Admin" class="btn btn-dark">
+                    Manage Products
+                </a>
+
+            }
+            else
+            {
+                <a asp-controller="Product" asp-action="Customer" class="btn btn-dark">
+                    Order Products
+                </a>
+            }
+        </div>
+
+
+
+        @if (Model.user.Image != null)
+        {
+            <a asp-controller="User" asp-route-Id="@Model.user.UserId" asp-action="DeletePicture" class="btn btn-danger" style="height:50px;">
+                Remove Image
+            </a>
+
+            <img src="/User/GetImage/@Model.user.UserId" alt="" class="profile-image" />
+        }
+        else
+        {
+            @using (Html.BeginForm("Profile", "User", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                @Html.AntiForgeryToken()
+                <input type="file" name="ImageData" id="ImageData" />
+                <br />
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Upload" class="btn btn-success" />
+                </div>}
+        }
+
+        <table class="table table-bordered table-striped" style="width:60%">
+            <tbody>
+                <tr>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        @Model.user.UserName
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        MobileNo
+                    </th>
+                    <th>
+                        @Model.user.MobileNo
+                    </th>
+                </tr>
+                <tr>
+                    <th>
+                        Email
+                    </th>
+                    <th>
+                        @Model.user.Email
+                    </th>
+                </tr>
+            </tbody>
+        </table>
+
+        @if (!Model.user.Admin && Model.product.Count() != 0) {
+    <table class="table table-bordered table-striped" style="width:60%">
+        <thead>
+            <tr>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Picture
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Description
+                </th>
+                <th>
+                    Placed Date
+                </th>
+                <th>
+                    Delivery Date
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var obj in Model.product)
+            {
+            <tr>
+                <td width="30%">@obj.ProductName</td>
+                <td width="50%"><img src="/Product/GetImage/@obj.ProductId" alt="" style="height:100px;width:100px;" /></td>
+
+                <td width="30%">@obj.ProductPrice</td>
+                <td width="30%">@obj.Description</td>
+                @foreach (var order in Model.order)
+                {
+                    if (order.ProductId == obj.ProductId)
+                    {
+                        <td width="30%">@order.placedDate.Date</td>
+                        <td width="30%">@order.deliveryDate.Date</td>
+                        <td class="text-center">
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-controller="Order" asp-route-Id="@order.OrderId" asp-action="deleteOrder" class="btn btn-danger mx-2">
+                                    Cancel Order
+                                </a>
+                            </div>
+                        </td>
+                    }
+                }
+
+
+
+            </tr>
+            }
+        </tbody>
+    </table>
+        }
+    </div>
+</div>

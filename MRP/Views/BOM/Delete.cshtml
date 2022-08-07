@@ -1,0 +1,69 @@
+﻿@model MRP.Models.BOM;
+
+@{
+    ViewData["Title"] = "Delete Material";
+}
+
+<form method="post" asp-action="DeletePost">
+    <input asp-for="MaterialId" hidden />
+    <div class="border p-3">
+        <div class="form-group row">
+            <h2 class="text-info pl-3">
+                Delete Product
+            </h2>
+        </div>
+
+        <div class="row">
+            <div class="col-8">
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="MaterialName"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="MaterialName" disabled class="form-control" />
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="MaterialPrice"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="MaterialPrice" disabled class="form-control" />
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="MaterialQty"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="MaterialQty" disabled class="form-control" />
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-8 offset-4 row">
+                        <div class="col">
+                            <input type="submit" class="btn btn-danger w-100" value="Delete" />
+                        </div>
+
+                        <div class="col">
+                            <a asp-action="Admin" class="btn btn-success w-100">
+                                Back
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+
+

@@ -1,0 +1,71 @@
+﻿@model MRP.Models.Inventory;
+
+@{
+    ViewData["Title"] = "Edit Item";
+}
+<form method="post">
+    <input asp-for="ItemId" hidden />
+    <div class="border p-3">
+        <div class="form-group row">
+            <h2 class="text-info pl-3">
+                Edit Product
+            </h2>
+        </div>
+
+        <div class="row">
+            <div class="col-8">
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="ItemName"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="ItemName" class="form-control" />
+                        <span asp-validation-for="ItemName" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="ItemPrice"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="ItemPrice" class="form-control" />
+                        <span asp-validation-for="ItemPrice" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-4">
+                        <label asp-for="ItemQty"></label>
+                    </div>
+                    <div class="col-8">
+                        <input asp-for="ItemQty" class="form-control" />
+                        <span asp-validation-for="ItemQty" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <div class="col-8 offset-4 row">
+                        <div class="col">
+                            <input type="submit" class="btn btn-info w-100" value="Update" />
+                        </div>
+
+                        <div class="col">
+                            <a asp-action="Admin" class="btn btn-success w-100">
+                                Back
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+
+

@@ -1,0 +1,513 @@
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.csprojAssemblyReference.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.AssemblyInfoInputs.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.AssemblyInfo.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.csproj.CoreCompileInputs.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.RazorAssemblyInfo.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.RazorAssemblyInfo.cs
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\appsettings.Development.json
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\appsettings.json
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\MRP.exe
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\MRP.deps.json
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\MRP.runtimeconfig.json
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\MRP.runtimeconfig.dev.json
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\MRP.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ref\MRP.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\MRP.pdb
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\MRP.Views.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\MRP.Views.pdb
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Google.Protobuf.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Humanizer.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\MySql.Data.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Zstandard.Net.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ASP.NET\MRP\MRP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\staticwebassets\MRP.StaticWebAssets.Manifest.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\staticwebassets\MRP.StaticWebAssets.xml
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\scopedcss\bundle\MRP.styles.css
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.TagHelpers.input.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.TagHelpers.output.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.RazorCoreGenerate.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.RazorTargetAssemblyInfo.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.RazorTargetAssemblyInfo.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.Views.pdb
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.csproj.CopyComplete
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.dll
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\ref\MRP.dll
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.pdb
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\MRP.genruntimeconfig.cache
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Update.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Admin.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Customer.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Admin.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Create.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Edit.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Delete.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Admin.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Create.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Delete.cshtml.g.cs
+D:\ASP.NET\MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Edit.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\MRP.exe
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\MRP.deps.json
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\MRP.runtimeconfig.json
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\MRP.runtimeconfig.dev.json
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\MRP.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ref\MRP.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\MRP.pdb
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\MRP.Views.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\MRP.Views.pdb
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\MRP\MRP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.AssemblyInfo.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\staticwebassets\MRP.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\staticwebassets\MRP.StaticWebAssets.xml
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\scopedcss\bundle\MRP.styles.css
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.TagHelpers.input.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.TagHelpers.output.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.RazorCoreGenerate.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Admin.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Create.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Delete.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Edit.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Admin.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Create.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Delete.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Edit.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Admin.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Customer.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Update.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.Views.pdb
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.csproj.CopyComplete
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.dll
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\ref\MRP.dll
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.pdb
+C:\Users\user\Desktop\MRP\MRP\obj\Debug\net5.0\MRP.genruntimeconfig.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\appsettings.json
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\MRP.exe
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\MRP.deps.json
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\MRP.runtimeconfig.json
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\MRP.runtimeconfig.dev.json
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\MRP.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ref\MRP.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\MRP.pdb
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\MRP.Views.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\MRP.Views.pdb
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Humanizer.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.AssemblyInfo.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\staticwebassets\MRP.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\staticwebassets\MRP.StaticWebAssets.xml
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\scopedcss\bundle\MRP.styles.css
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.TagHelpers.input.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.TagHelpers.output.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.RazorCoreGenerate.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Admin.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Create.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\BOM\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Admin.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Create.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Inventory\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Admin.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Customer.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Profile.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\User\Update.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.Views.pdb
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.csproj.CopyComplete
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\ref\MRP.dll
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.pdb
+C:\Users\user\Desktop\Github\SE Proj - MRP\MRP\obj\Debug\net5.0\MRP.genruntimeconfig.cache
